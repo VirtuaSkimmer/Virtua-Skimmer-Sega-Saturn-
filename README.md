@@ -2,7 +2,9 @@
 Homebrew game for the Sega Saturn WIP (%30 done)
 
 ![Boxart](http://i.magaimg.net/img/34v2.png "Box")
+
 Instructions
+
 Main Objective- Perform a skimboard "wrap" on the wave, with many links/tricks possible
 ![Wrap](http://i.magaimg.net/img/3569.png "Wrap")
 
