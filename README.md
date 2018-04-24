@@ -9,11 +9,13 @@ Main Objective- Perform a skimboard "wrap" on the wave, with many links/tricks p
 Tricks-
 
 Kickflip(C) must rotate 360 around or will fall
+
 ![Wrap](http://i.magaimg.net/img/35fn.png "Wrap")
 
 Shuv-it(B) can land any angle 
 
 Backflip(A) Must be on wave and holding right . Must rotate 360 or will fall.
+
 ![Flip](http://i.magaimg.net/img/35fs.png "Flip")
 
 Duck(X) Must be in barrel. Used to duck into deep barrel or will fall/
